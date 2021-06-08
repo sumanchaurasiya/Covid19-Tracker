@@ -1,0 +1,42 @@
+.datatable-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.paper {
+    width: 80%;
+}
+
+.t-head {
+    font-weight: bold;
+}
+
+.tab:hover {
+    background-color: antiquewhite !important;
+    transform: scale(1.01) !important;
+}
+
+@media only screen and (max-width: 770px) {
+    .datatable-container{
+        font-size: 40px !important;
+    }
+    .paper{
+        width: 100%;
+    }
+    .table-cell {
+        padding-left: 0.05vw !important;
+        padding-right: 0.05vw !important;
+        font-size: 2.5vw !important;
+    }
+    .t-head {
+        font-size: 2.5vw !important;
+    }
+    .tab:hover{
+        background-color: antiquewhite !important;
+        transform: scale(1) !important;
+    }
+}
