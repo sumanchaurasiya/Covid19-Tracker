@@ -4,28 +4,23 @@ This Project has been presented to CodeVision BCET, Durgapur for the Event Conso
 Team Name: Codium
   - Suman Chaurasiya : 2nd Year CSE
   - Sujata Kumari : 1st Year CSE
----
-## Feature
 
+## Feature
+---
 Provides Live stats of Corona cases for:
 * India (All States/UTs)
 * World (All Countries)
 
----
-## For Live Demo: [Click Here](NETLIFY_LINK)
----
-
 ## Prerequisites 📋
-
+---
 ```
 node@v10.16.0 or higher
 npm@6.9.0 or higher
 git@2.17.1 or higher
 ```
----
 
 ## Development
-
+---
 To setup the app for development on your local machine, please follow the instructions below:
 
 - Clone the repo to your machine
@@ -41,6 +36,9 @@ npm install
 npm start
 ```
 - Visit http://localhost:3000 in any of your web browser!
+---
+
+## For Live Demo: [Visit Here](NETLIFY_LINK)
 ---
 
 ## Technologies used 🛠️
@@ -60,7 +58,6 @@ Data is fetched from different sources as given below.
 | India      | https://api.covid19india.org/                                       |
 | World      | https://covid19.mathdro.id/api/                                     |
 ---
-
 
 ## License 📄
 
