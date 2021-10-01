@@ -69,7 +69,7 @@ const SelectionTabs = () => {
                     onChange={handleChange}
                     centered
                 >
-                    <Tab label="Bihar" />
+                    <Tab label="" />
                     <Tab label="India" />
                     <Tab label="World" />
                 </Tabs>
