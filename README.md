@@ -30,10 +30,14 @@ git clone <GIT_LINK>
 - Install necessary packages
 ```bash
 npm install
+#OR
+yarn install
 ```
 - Start the development environment
 ```bash
 npm start
+#OR 
+yarn start
 ```
 - Visit http://localhost:3000 in any of your web browser!
 ---
