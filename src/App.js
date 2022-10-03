@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { TinyButton as ScrollUpButton } from "react-scroll-up-button";
+import { CircleArrow  as ScrollUpButton } from "react-scroll-up-button";
 
 import './App.css';
 import { Header, Footer, SelectionTabs } from './components';
