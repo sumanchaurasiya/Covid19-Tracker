@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const apiUrl = 'https://api.covid19india.org';
+const apiUrl = 'https://data.covid19india.org';
 const arcgisDistrictUrl = 'https://services9.arcgis.com/HwXIp55hAoiv6DE9/ArcGIS/rest/services/District_Wise_Covid_19_Status_view/FeatureServer/0/query';
 const cntryApiUrl = 'https://covid19.mathdro.id/api';
 
